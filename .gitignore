@@ -54,4 +54,5 @@ next-env.d.ts
 .playwright-mcp/
 
 # Claude Code 로컬 설정
-.claude/
+.claude/*
+!.claude/commands/
